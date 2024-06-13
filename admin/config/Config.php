@@ -2,10 +2,10 @@
 
 class Config {
     // データベース設定
-    const DBHOST = "localhost";
-    const DBNAME = "xs728645_qisystem";
-    const DBUSER = "xs728645_qi";
-    const DBPASS = "kangohyogouni";
+    const DBHOST = "DBHOST";
+    const DBNAME = "DBNAME";
+    const DBUSER = "DBUSER";
+    const DBPASS = "DBPASS";
 
     // COPYRIGHT表示
     const COPYRIGHT = "";
